@@ -1,0 +1,33 @@
+# Project exclude paths
+/.gradle/
+/Classes/Data classes/build/
+/Classes/Data classes/out/
+/Classes/Data classes/out/production/classes/
+/Classes/Extension functions/build/
+/Classes/Rename on import/build/
+/Classes/Sealed classes/build/
+/Classes/Sealed classes/out/
+/Classes/Sealed classes/out/production/classes/
+/Classes/Smart casts/build/
+/Conventions/Comparison/build/
+/Conventions/Comparison/out/
+/Conventions/Comparison/out/production/classes/
+/Conventions/Operators overloading/out/
+/Conventions/Operators overloading/out/production/classes/
+/Conventions/Ranges/build/
+/Introduction/Default arguments/build/
+/Introduction/Hello, world_/build/
+/Introduction/Lambdas/build/
+/Introduction/Named arguments/build/
+/Introduction/Nothing type/build/
+/Introduction/Nullable types/build/
+/Introduction/String templates/build/
+/Introduction/String templates/out/
+/Introduction/String templates/out/production/classes/
+/Introduction/Triple-quoted strings/build/
+/Introduction/Triple-quoted strings/out/
+/Introduction/Triple-quoted strings/out/production/classes/
+/Properties/Delegates examples/build/
+/util/build/
+/util/out/
+/util/out/production/classes/
